@@ -64,5 +64,12 @@ hr.footer{
     position: relative;
     top: -15px;
 }
+div.mou{
+    position: relative;
+    bottom: 18cm;
+}
 
-
+div.imatge{
+    position: relative;
+    left: 10cm;
+}
