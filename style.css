@@ -1,0 +1,14 @@
+div.goya{
+    text-align: center;
+    background-color: lightpink;
+    color: blue;
+}
+div.goya2{
+    background-color: aliceblue;
+    color: royalblue;
+    text-align: center;
+}
+a:hover{
+    background-color: yellow;
+    color: black;
+}
