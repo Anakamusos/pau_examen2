@@ -1,0 +1,38 @@
+div.goya{
+    text-align: center;
+    background-color: lightpink;
+    color: blue;
+}
+div.goya2{
+    background-color: aliceblue;
+    color: royalblue;
+    text-align: center;
+}
+a:hover{
+    background-color: yellow;
+    color: black;
+}
+input.opinio{
+    height: 5cm;
+    width: 6cm;
+}
+div.contacte{
+    text-align: center;
+    background-color: lightsalmon;
+    height: 10cm;
+    width: 15cm;
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+p{
+    color: blue;
+    
+}
+
+
+
+
+
+
+
